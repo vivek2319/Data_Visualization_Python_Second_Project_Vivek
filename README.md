@@ -2,6 +2,9 @@
 ## Introduction 
 **HR Analytics**
 ![HR Analytics](https://businessfirstfamily.com/wp-content/uploads/2017/04/HR-Analytics-In-The-Workplace.jpg)
+
+*Human resource analytics (HR analytics) is an area in the field of analytics that refers to applying analytic processes to the human resource department of an organization in the hope of improving employee performance and therefore getting a better return on investment.*
+
 ## Dataset  
 [Human Resource Analytics - Kaggle](https://www.kaggle.com/ludobenistant/hr-analytics)
 
