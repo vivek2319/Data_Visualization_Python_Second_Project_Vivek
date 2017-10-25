@@ -28,7 +28,7 @@ Why are our best and most experienced employees leaving prematurely? Have fun wi
 
 
 
-Summary: We loaded the dataset with csv file. We then took a look at data, pre-processed it. We also created [heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html) , [distribution plot](https://seaborn.pydata.org/generated/seaborn.distplot.html) , [boxplot](https://seaborn.pydata.org/generated/seaborn.boxplot.html) , and produced regression line using [lmplot](https://seaborn.pydata.org/generated/seaborn.lmplot.html) . For this project, we used various packages, such as [NumPy](http://www.numpy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), and [Seaborn](https://pypi.python.org/pypi/seaborn). 
+* Summary: We loaded the dataset with csv file. We then took a look at data, pre-processed it. We also created [heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html) , [distribution plot](https://seaborn.pydata.org/generated/seaborn.distplot.html) , [boxplot](https://seaborn.pydata.org/generated/seaborn.boxplot.html) , and produced regression line using [lmplot](https://seaborn.pydata.org/generated/seaborn.lmplot.html) . For this project, we used various packages, such as [NumPy](http://www.numpy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), and [Seaborn](https://pypi.python.org/pypi/seaborn). 
 
 # Reference Kernel: [Randy Lao](https://www.kaggle.com/randylaosat/predicting-employee-kernelover)
 
