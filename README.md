@@ -1,6 +1,6 @@
 # Data_Visualization_Python_Second_Project_Vivek
 ## Introduction
-![tp](https://kaggle2.blob.core.windows.net/datasets-images/358/750/9f6e32bb96b7d8db72aa31a317c01ec8/dataset-cover.jpg)
+![alt text](https://www.kaggle.com/ludobenistant/hr-analytics)
 ## Dataset  
 [Human Resource Analytics - Kaggle](https://www.kaggle.com/ludobenistant/hr-analytics)
 
