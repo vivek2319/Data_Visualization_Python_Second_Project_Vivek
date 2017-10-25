@@ -32,4 +32,4 @@ Why are our best and most experienced employees leaving prematurely? Have fun wi
 
 # Reference Kernel: [Randy Lao](https://www.kaggle.com/randylaosat/predicting-employee-kernelover)
 
-Feel free to suggest any improvements. 
+**Feel free to suggest any improvements.** 
