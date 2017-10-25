@@ -1,6 +1,7 @@
 # Data_Visualization_Python_Second_Project_Vivek
-## Introduction
-![alt text](https://www.kaggle.com/ludobenistant/hr-analytics)
+## Introduction 
+**HR Analytics**
+![HR Analytics](https://businessfirstfamily.com/wp-content/uploads/2017/04/HR-Analytics-In-The-Workplace.jpg)
 ## Dataset  
 [Human Resource Analytics - Kaggle](https://www.kaggle.com/ludobenistant/hr-analytics)
 
